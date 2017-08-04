@@ -30,7 +30,9 @@ mv php-cs-fix /usr/local/bin
 
 Then you can use `php-cs-fix` in the global role
 
-## .php_cs
+## config
+
+**.php_cs**
 
 This is a ps-cs-fix configuration file that, according to my requirements, has some other criteria besides the PSR2
 
