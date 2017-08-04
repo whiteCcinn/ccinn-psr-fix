@@ -25,12 +25,12 @@ then
 ```
 cd ccinn-psr-fix
 chmod a+x php-cs-fix
-mv php-cs-fix /usr/local/bin
+mv php-cs-fix /usr/local/bin/php-cs-fix
 ```
 
 Then you can use `php-cs-fix` in the global role
 
-## config
+## Config
 
 **.php_cs**
 
