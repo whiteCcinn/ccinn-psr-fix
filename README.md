@@ -47,7 +47,7 @@ IF your choose the `1`:
 you just need:
 
 ```
-php-cs-fix fix xxxx.php
+php-cs-fixer fix xxxx.php
 ```
 
 
@@ -56,6 +56,6 @@ ELSEIF your choose the `2`:
 you must be add option 
 
 ```
-php-cs-fix fix xxxx.php --config /path/to/.php_cs
+php-cs-fixer fix xxxx.php --config /path/to/.php_cs
 ```
 
